@@ -5,7 +5,7 @@
     <classes>
       <class name="demoj.demo1test">
         <methods>
-          <include name="demo1test1"/>
+          <include name="demo1test"/>
         </methods>
       </class> <!-- demoj.demo1test -->
     </classes>
